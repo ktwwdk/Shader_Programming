@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Shader_Programming/ContentsProgramming/51018/Custom_Ligthing/Content/Setup/NewMaterial_Inst.uasset",
+				"E:/Shader_Programming/ContentsProgramming/51018/Custom_Ligthing/Content/51018/Maps/Custom_Ligthing.umap",
+				"E:/Shader_Programming/ContentsProgramming/51018/Custom_Ligthing/Content/51018/Material/Band_lambert_OutLine.uasset",
+				"E:/Shader_Programming/ContentsProgramming/51018/Custom_Ligthing/Content/51018/Material/M_Fresnel.uasset",
 				"G:/ContentsProgramming/51018/Custom_Ligthing/Content/51018/51018_HLOD0_Instancing.uasset",
 				"G:/ContentsProgramming/51018/Custom_Ligthing/Content/51018/51018.umap",
 				"G:/ContentsProgramming/51018/Custom_Ligthing/Content/51018/Maps/51018.umap",
